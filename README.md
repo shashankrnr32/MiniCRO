@@ -7,7 +7,7 @@
 
 Extracts Data from 'DATA.csv' and animates the wave display as in CRO. Also gives options to Play, Pause, Move the wave display Left and Right
 
-![Demo](https://i.imgur.com/xJseqJp.gifv)
+![Demo](https://i.imgur.com/xJseqJp.gif)
 ## Installation Instructions
 
 Python Modules Used (Install these Modules)
